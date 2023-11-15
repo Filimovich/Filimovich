@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mike!
 - 👀 I’m interested in front-end programming
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning JS/TS and Angular framework
 - 💞️ I’m looking to collaborate to learn frontend together!
 - 📫 How to reach me: https://vk.com/m.filimovich / m.s.filimovich@gmail.com / https://t.me/m.s.filimovich
 
